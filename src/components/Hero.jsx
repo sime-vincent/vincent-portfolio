@@ -60,7 +60,7 @@ function Hero() {
         </a>
 
         <a
-          href="https://www.linkedin.com/in/vincent-sime"
+          href="https://www.linkedin.com/in/vincent-sime-945817304"
           target="_blank"
           style={{
             padding: "0.7rem 1.5rem",
